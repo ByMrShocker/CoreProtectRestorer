@@ -1,0 +1,13 @@
+bymrshocker\coreProtectRestorer\commands\cpr_restore.class
+bymrshocker\coreProtectRestorer\commands\cpr_delete.class
+bymrshocker\coreProtectRestorer\data\DebugBlock.class
+bymrshocker\coreProtectRestorer\commands\cpr_test.class
+bymrshocker\coreProtectRestorer\database\EDatabaseManager.class
+bymrshocker\coreProtectRestorer\commands\cpr_.class
+bymrshocker\coreProtectRestorer\data\CoBlock.class
+bymrshocker\coreProtectRestorer\data\RollbackResult.class
+bymrshocker\coreProtectRestorer\data\RollbackProcess.class
+bymrshocker\coreProtectRestorer\CoreProtectRestorer.class
+bymrshocker\coreProtectRestorer\commands\cpr_restoreMulti.class
+bymrshocker\coreProtectRestorer\commands\cpr_rollback.class
+bymrshocker\coreProtectRestorer\data\RestoreProcess.class

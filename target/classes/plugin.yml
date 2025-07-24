@@ -1,0 +1,14 @@
+name: CoreProtectRestorer
+version: '1.0'
+main: bymrshocker.coreProtectRestorer.CoreProtectRestorer
+api-version: '1.21'
+load: STARTUP
+commands:
+  cpr:
+    description: ssv stuff
+    usage: /<command>
+    permission: cpr
+    permission-message: You do not have permission to use that.
+depend: [
+  ShockerFunctionLibrary
+]
