@@ -4,4 +4,4 @@ This plugin scans the database and searches for all records related to the neces
 
 
 The plugin can restore actions performed using Axiom Mod, as it is recorded in the database.
-However, actions performed using WorldEdit cannot be undone.
+However, actions performed using WorldEdit cannot be restored.
