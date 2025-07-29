@@ -3,6 +3,9 @@ Since CoreProtect only records actions that were intercepted via EventHandler, a
 This plugin scans the database and searches for all records related to the necessary blocks in order to restore them.
 
 
+ShockerFunctionLibrary is required! If you have no access, well...
+
+
 The plugin can restore actions performed using Axiom Mod, as it is recorded in the database.
 However, actions performed using WorldEdit cannot be restored.
 
@@ -18,3 +21,4 @@ The plugin has many commands, INCLUDING FOR DELETING DATA IN THE DATABASE! Be ca
 The restore and rollback commands are legacy, as I have tried a huge number of options for implementing this idea.
 The best results were achieved with /cpr restoreMulti [radius] [forceBroken] [numThreads].
 forceBroken - whether to restore even blocks that had triggered a BlockBreak event.
+
